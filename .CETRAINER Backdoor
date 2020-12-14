@@ -8,5 +8,4 @@ function getFile(link)
   closeCE()
   return caHide
 end
-
 getFile("https::/website.com/file.exe");
